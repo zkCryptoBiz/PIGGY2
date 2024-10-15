@@ -3327,7 +3327,7 @@ var yt = O(ae),
                               }),
                             }),
                             e(Z, {
-                              href: "https://t.me/LittlePiggyXyz",
+                              href: "https://t.me/LittlePiggyCto",
                               openInNewTab: !0,
                               children: e(R, {
                                 breakpoint: p,
@@ -3365,7 +3365,7 @@ var yt = O(ae),
                               }),
                             }),
                             e(Z, {
-                              href: "https://pump.fun/9mvqCnPWn3XHfrY4SXHoMHf2Tkmg5zHQFiANYHGpump",
+                              href: "https://pump.fun/5z3DbvxNjn2YVY3dqA917rY4ue21eFWAsKR65tLpump",
                               openInNewTab: !0,
                               children: e(R, {
                                 breakpoint: p,
@@ -3430,12 +3430,12 @@ var yt = O(ae),
                                     children: e(Be, {
                                       cEGfNMrg4: 15,
                                       GSol4UKtR:
-                                        "9mvqCnPWn3XHfrY4SXHoMHf2Tkmg5zHQFiANYHGpump",
+                                        "5z3DbvxNjn2YVY3dqA917rY4ue21eFWAsKR65tLpump",
                                       height: "100%",
                                       id: "cLqKpWUXG",
                                       layoutId: "cLqKpWUXG",
                                       pFBpLpb7W:
-                                        "9mvqCnPWn3XHfrY4SXHoMHf2Tkmg5zHQFiANYHGpump",
+                                        "5z3DbvxNjn2YVY3dqA917rY4ue21eFWAsKR65tLpump",
                                       style: { height: "100%", width: "100%" },
                                       variant: "zyJ1yXUEk",
                                       width: "100%",
@@ -3449,7 +3449,7 @@ var yt = O(ae),
                       ],
                     }),
                     e(Z, {
-                      href: "https://pump.fun/9mvqCnPWn3XHfrY4SXHoMHf2Tkmg5zHQFiANYHGpump",
+                      href: "https://pump.fun/5z3DbvxNjn2YVY3dqA917rY4ue21eFWAsKR65tLpump",
                       openInNewTab: !0,
                       children: e(c.a, {
                         className: "framer-1au8r0f framer-lux5qc",
