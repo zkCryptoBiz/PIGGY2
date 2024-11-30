@@ -3276,7 +3276,7 @@ var yt = O(ae),
                                   style: { "--framer-font-size": "20px" },
                                   children: "",
                                 }),
-                                "toppig.xyz",
+                                "pigtotop.fun",
                               ],
                             }),
                           }),
@@ -3289,7 +3289,7 @@ var yt = O(ae),
                           className: "framer-1h1ad6r",
                           children: [
                             e(Z, {
-                              href: "https://x.com/TopPigCoin",
+                              href: "https://x.com/PigToTop",
                               openInNewTab: !0,
                               children: e(R, {
                                 breakpoint: p,
@@ -3327,7 +3327,7 @@ var yt = O(ae),
                               }),
                             }),
                             e(Z, {
-                              href: "https://t.me/TopPigCoin",
+                              href: "https://t.me/pigtotopcoin",
                               openInNewTab: !0,
                               children: e(R, {
                                 breakpoint: p,
@@ -3365,7 +3365,7 @@ var yt = O(ae),
                               }),
                             }),
                             e(Z, {
-                              href: "https://pump.fun/WWaWZ7HmDQkDVeff3dzbY23dTDwcN2BoDWY11jspump",
+                              href: "https://pump.fun/YFzWdc8TPghYaC7rJ4FUz3Egs5SeGVvbxigUitSpump",
                               openInNewTab: !0,
                               children: e(R, {
                                 breakpoint: p,
@@ -3430,12 +3430,12 @@ var yt = O(ae),
                                     children: e(Be, {
                                       cEGfNMrg4: 15,
                                       GSol4UKtR:
-                                        "WWaWZ7HmDQkDVeff3dzbY23dTDwcN2BoDWY11jspump",
+                                        "YFzWdc8TPghYaC7rJ4FUz3Egs5SeGVvbxigUitSpump",
                                       height: "100%",
                                       id: "cLqKpWUXG",
                                       layoutId: "cLqKpWUXG",
                                       pFBpLpb7W:
-                                        "WWaWZ7HmDQkDVeff3dzbY23dTDwcN2BoDWY11jspump",
+                                        "YFzWdc8TPghYaC7rJ4FUz3Egs5SeGVvbxigUitSpump",
                                       style: { height: "100%", width: "100%" },
                                       variant: "zyJ1yXUEk",
                                       width: "100%",
@@ -3449,7 +3449,7 @@ var yt = O(ae),
                       ],
                     }),
                     e(Z, {
-                      href: "https://pump.fun/WWaWZ7HmDQkDVeff3dzbY23dTDwcN2BoDWY11jspump",
+                      href: "https://pump.fun/YFzWdc8TPghYaC7rJ4FUz3Egs5SeGVvbxigUitSpump",
                       openInNewTab: !0,
                       children: e(c.a, {
                         className: "framer-1au8r0f framer-lux5qc",
