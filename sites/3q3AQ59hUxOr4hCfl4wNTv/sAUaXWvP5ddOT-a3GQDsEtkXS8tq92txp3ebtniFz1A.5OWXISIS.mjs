@@ -3365,7 +3365,7 @@ var yt = O(ae),
                               }),
                             }),
                             e(Z, {
-                              href: "https://pump.fun/*********",
+                              href: "https://pump.fun/2XEBm2gJhQtVbWNHbq4Q22v47drbQ3eNPff961yT2k7M",
                               openInNewTab: !0,
                               children: e(R, {
                                 breakpoint: p,
@@ -3430,12 +3430,12 @@ var yt = O(ae),
                                     children: e(Be, {
                                       cEGfNMrg4: 15,
                                       GSol4UKtR:
-                                        "*********",
+                                        "2XEBm2gJhQtVbWNHbq4Q22v47drbQ3eNPff961yT2k7M",
                                       height: "100%",
                                       id: "cLqKpWUXG",
                                       layoutId: "cLqKpWUXG",
                                       pFBpLpb7W:
-                                        "*********",
+                                        "2XEBm2gJhQtVbWNHbq4Q22v47drbQ3eNPff961yT2k7M",
                                       style: { height: "100%", width: "100%" },
                                       variant: "zyJ1yXUEk",
                                       width: "100%",
@@ -3449,7 +3449,7 @@ var yt = O(ae),
                       ],
                     }),
                     e(Z, {
-                      href: "https://pump.fun/*********",
+                      href: "https://pump.fun/2XEBm2gJhQtVbWNHbq4Q22v47drbQ3eNPff961yT2k7M",
                       openInNewTab: !0,
                       children: e(c.a, {
                         className: "framer-1au8r0f framer-lux5qc",
