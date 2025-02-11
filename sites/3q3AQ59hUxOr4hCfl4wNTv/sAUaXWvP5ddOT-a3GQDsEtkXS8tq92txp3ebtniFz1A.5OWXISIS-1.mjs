@@ -3366,7 +3366,7 @@ var yt = O(ae),
                             }),
                             e(Z, 
                                 {
-                              href: "https://pump.fun/wcHr8gAoDxDKnsvP3Yn1mxTzNqBMBKMoA7ucL8Ltump",
+                              href: "https://pump.fun/5eAGVroziG8dqegyAaKhyKcw8KzKcVXXQ5MuwhAjump",
                               openInNewTab: !0,
                               children: e(R, {
                                 breakpoint: p,
@@ -3468,12 +3468,12 @@ var yt = O(ae),
                                     children: e(Be, {
                                       cEGfNMrg4: 15,
                                       GSol4UKtR:
-                                        "wcHr8gAoDxDKnsvP3Yn1mxTzNqBMBKMoA7ucL8Ltump",
+                                        "5eAGVroziG8dqegyAaKhyKcw8KzKcVXXQ5MuwhAjump",
                                       height: "100%",
                                       id: "cLqKpWUXG",
                                       layoutId: "cLqKpWUXG",
                                       pFBpLpb7W:
-                                        "wcHr8gAoDxDKnsvP3Yn1mxTzNqBMBKMoA7ucL8Ltump",
+                                        "5eAGVroziG8dqegyAaKhyKcw8KzKcVXXQ5MuwhAjump",
                                       style: { height: "100%", width: "100%" },
                                       variant: "zyJ1yXUEk",
                                       width: "100%",
@@ -3487,7 +3487,7 @@ var yt = O(ae),
                       ],
                     }),
                     e(Z, {
-                      href: "https://jup.ag/swap/wcHr8gAoDxDKnsvP3Yn1mxTzNqBMBKMoA7ucL8Ltump-SOL",
+                      href: "https://jup.ag/swap/5eAGVroziG8dqegyAaKhyKcw8KzKcVXXQ5MuwhAjump-SOL",
                       openInNewTab: !0,
                       children: e(c.a, {
                         className: "framer-1au8r0f framer-lux5qc",
